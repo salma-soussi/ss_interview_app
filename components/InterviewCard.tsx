@@ -1,4 +1,4 @@
-import { cn, getRandomInterviewCover } from "@/lib/utils";
+import { getRandomInterviewCover } from "@/lib/utils";
 import * as dayjs from "dayjs";
 import Image from "next/image";
 import { Button } from "./ui/button";
